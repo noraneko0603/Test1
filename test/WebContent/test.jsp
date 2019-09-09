@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-		<form method="post" action="test">
+		<form method="post" action="Login">
 			<p>
 				名前：<input type="text" name="name">
 			</p>
